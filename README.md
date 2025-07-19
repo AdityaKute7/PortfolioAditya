@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive Portfolio Website 
 
 Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
@@ -21,3 +22,6 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 
 
 <p align="center"><b>© Created by Praveen Mishra</b></p?
+=======
+# Personal-Portfolio-Website
+>>>>>>> e52bdba79cbc251557669a70fd2e1869a0e50034
