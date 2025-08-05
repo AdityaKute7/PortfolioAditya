@@ -13,6 +13,7 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 
 <div align="center">
 <a href="https://aditya534.netlify.app"><strong>➥ Live Demo</strong></a>
+/div>
 
 # Personal-Portfolio-Website
 
