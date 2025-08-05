@@ -18,6 +18,5 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 # Personal-Portfolio-Website
 
 ##  Author
-Aditya Kute – Final Year Project
-
+Aditya Kute
 © 2025 Aditya Kute. All rights reserved.
